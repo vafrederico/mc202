@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1344969182 source:c:\users\administrador\desktop\mc202\lab1\balloc.c
+	"balloc.h"
+
+1344969204 c:\users\administrador\desktop\mc202\lab1\balloc.h
+	<stdlib.h>
+
+1345325484 source:c:\users\administrador\desktop\mc202\lab1\main.c
+	"main.h"
+
+1345124401 c:\users\administrador\desktop\mc202\lab1\main.h
+	<stdio.h>
+	<stdlib.h>
+	"balloc.h"
+

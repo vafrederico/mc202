@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1347417813 source:c:\users\administrador\desktop\mc202\lab3\main.c
+	"lista.h"
+	"grandeint.h"
+
+1347420541 c:\users\administrador\desktop\mc202\lab3\lista.h
+	<stdio.h>
+	<stdlib.h>
+	"balloc.h"
+
+1346102363 c:\users\administrador\desktop\mc202\lab3\balloc.h
+	<stdlib.h>
+	<stdio.h>
+
+1347420523 source:c:\users\administrador\desktop\mc202\lab3\lista.c
+	"lista.h"
+
+1346102366 source:c:\users\administrador\desktop\mc202\lab3\balloc.c
+	"balloc.h"
+
+1347420540 c:\users\administrador\desktop\mc202\lab3\grandeint.h
+	"lista.h"
+
+1347420758 source:c:\users\administrador\desktop\mc202\lab3\grandeint.c
+	"grandeint.h"
+
