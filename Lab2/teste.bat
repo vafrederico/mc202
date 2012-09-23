@@ -2,7 +2,7 @@
 set exe=bin\Debug\Lab2
 set testeFolder=Testes\arq
 
-for %%A in (1 2 3 4 5 6) DO (
+for %%A in (1 2 3 4 5 6 7 8 9) DO (
 echo *************************
 echo *************************
 echo **                     **

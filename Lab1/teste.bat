@@ -8,3 +8,7 @@ bin\Debug\Lab1 < arq03.in
 pause
 bin\Debug\Lab1 < arq04.in
 pause
+bin\Debug\Lab1 < arq05.in
+pause
+bin\Debug\Lab1 < arq06.in
+pause

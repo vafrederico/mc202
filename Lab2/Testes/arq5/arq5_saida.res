@@ -7,7 +7,11 @@ Pista parada
 Tempo 2
 Pista parada
 Tempo 3
+Ultimo: -1
+Ultimo: 1
 1 entra na fila de aterrissagem
+Ultimo: -1
+Ultimo: 2
 2 entra na fila de decolagem
 1 aterrissa
 Tempo 4
@@ -32,7 +36,11 @@ Tempo 2
 Pista de aterrissagem parada
 Pista de decolagem parada
 Tempo 3
+Ultimo: -1
+Ultimo: 1
 1 entra na fila de aterrissagem
+Ultimo: -1
+Ultimo: 2
 2 entra na fila de decolagem
 1 aterrissa
 2 decola
